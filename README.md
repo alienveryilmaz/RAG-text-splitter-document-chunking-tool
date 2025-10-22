@@ -89,4 +89,4 @@ No external dependencies or frameworks required. Works on all modern browsers.
 -   A simple yet powerful open-source tool for developers working with RAG, LLMs, and NLP pipelines who need fast and reliable text segmentation.
 
 🌐 Tags
--   "rag" "text-chunker" "nlp" "llm" "embeddings" "javascript" "frontend-tool" "open-source"
+-   `rag`, `text-chunker`, `nlp`, `।lm`, `embeddings`, `javascript`, `frontend-tool`, `open-source`
