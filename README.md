@@ -59,8 +59,8 @@ All settings can be adjusted from the app interface (⚙️ Configuration Settin
 -   ⚙️ Settings Panel — Configure chunk size and overlap interactively.
 
 🔒 Privacy
-All processing occurs entirely in your browser.
-No data is sent to external servers — safe for confidential or private text.
+-   All processing occurs entirely in your browser.
+-   No data is sent to external servers — safe for confidential or private text.
 
 🧩 Tech Stack
 - HTML5
@@ -76,17 +76,17 @@ No external dependencies or frameworks required. Works on all modern browsers.
 -   🔍 Semantic similarity visualization between chunks
 
 🤝 Contributing
-Pull requests and feature ideas are welcome!
-Please keep the project lightweight and dependency-free.
-If you submit UI changes, include a short before/after example or screenshot.
+-   Pull requests and feature ideas are welcome!
+-   Please keep the project lightweight and dependency-free.
+-   If you submit UI changes, include a short before/after example or screenshot.
 
 📄 License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute it for both personal and commercial purposes.
+-   This project is licensed under the MIT License.
+-   You are free to use, modify, and distribute it for both personal and commercial purposes.
 
 👨‍💻 Author
-Developed by Ali Enver Yılmaz
-A simple yet powerful open-source tool for developers working with RAG, LLMs, and NLP pipelines who need fast and reliable text segmentation.
+-   Developed by Ali Enver Yılmaz
+-   A simple yet powerful open-source tool for developers working with RAG, LLMs, and NLP pipelines who need fast and reliable text segmentation.
 
 🌐 Tags
-rag text-chunker nlp llm embeddings javascript frontend-tool open-source
+-   "rag" "text-chunker" "nlp" "llm" "embeddings" "javascript" "frontend-tool" "open-source"
