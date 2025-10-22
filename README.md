@@ -48,37 +48,45 @@ All settings can be adjusted from the app interface (⚙️ Configuration Settin
    git clone https://github.com/<your-username>/<your-repo-name>.git
    cd <your-repo-name>
 
-Open the file textChunkerRagTool.html in your browser.
-Paste your text, adjust settings if needed, and click “Chunk Text”.
-Copy chunks easily using the 📋 Copy buttons.
+2. Open the file textChunkerRagTool.html in your browser.
+3. Paste your text, adjust settings if needed, and click “Chunk Text”.
+4. Copy chunks easily using the 📋 Copy buttons.
+
 📊 Interface Overview
-📥 Input Section — Paste or write the text you want to chunk.
-📈 Stats Panel — Displays total word count, chunk count, and average size.
-📤 Chunked Output — Lists each chunk with overlap information and a copy button.
-⚙️ Settings Panel — Configure chunk size and overlap interactively.
+-   📥 Input Section — Paste or write the text you want to chunk.
+-   📈 Stats Panel — Displays total word count, chunk count, and average size.
+-   📤 Chunked Output — Lists each chunk with overlap information and a copy button.
+-   ⚙️ Settings Panel — Configure chunk size and overlap interactively.
+
 🔒 Privacy
 All processing occurs entirely in your browser.
 No data is sent to external servers — safe for confidential or private text.
+
 🧩 Tech Stack
-HTML5
-CSS3
-Vanilla JavaScript
+- HTML5
+- CSS3
+- Vanilla JavaScript
 No external dependencies or frameworks required. Works on all modern browsers.
+
 🗺️ Roadmap Ideas
-🧾 Export chunks as JSON / TXT
-🧠 Add token-based chunking (e.g., using tiktoken)
-🌍 Multilingual sentence detection
-📂 Drag-and-drop file input (PDF/DOCX via client-side parsing)
-🔍 Semantic similarity visualization between chunks
+-   🧾 Export chunks as JSON / TXT
+-   🧠 Add token-based chunking (e.g., using tiktoken)
+-   🌍 Multilingual sentence detection
+-   📂 Drag-and-drop file input (PDF/DOCX via client-side parsing)
+-   🔍 Semantic similarity visualization between chunks
+
 🤝 Contributing
 Pull requests and feature ideas are welcome!
 Please keep the project lightweight and dependency-free.
 If you submit UI changes, include a short before/after example or screenshot.
+
 📄 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it for both personal and commercial purposes.
+
 👨‍💻 Author
 Developed by Ali Enver Yılmaz
 A simple yet powerful open-source tool for developers working with RAG, LLMs, and NLP pipelines who need fast and reliable text segmentation.
+
 🌐 Tags
 rag text-chunker nlp llm embeddings javascript frontend-tool open-source
